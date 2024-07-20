@@ -1,9 +1,3 @@
 <h1>sistema de Registro</h1>
 
-- Estado del proyecto: en construcción
-
-Para ejecutar el sistema debes poner:
-
-```npm install react```
-
-sistema de registro 2
+[Visit the page](https://costadamia.github.io/numero-secreto-/)
